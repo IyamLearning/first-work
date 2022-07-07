@@ -1,0 +1,167 @@
+body{
+    font-family: 'Roboto', sans-serif;
+font-size:xx-large;
+
+
+
+}
+.title{
+    text-align:center;
+    padding-top: 250px;
+    
+
+}
+.fontsize{
+    font-size:small;
+    text-align: center;
+    margin-top: 50px;
+}
+span{
+    color: white;
+}
+.textdec{
+    text-decoration: none;
+    background-color:palevioletred;
+    border-radius: 5px;
+    margin-bottom: 150px;
+    color:navy;
+    margin-left: 550px;
+
+  
+    
+
+}
+.seconddhap{
+    margin: top 200px; ;
+
+}
+
+.backimg{
+    background-image: url("../images/donation13.jpg");
+    background-size: 100%;
+    height: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.center{
+    text-align: center;
+    margin-top: 100px;
+}
+.tk{
+    text-align: center;
+    margin-top: 100px;
+}
+.textdeco{
+    text-decoration: none;
+    background-color:yellow;
+    border-radius: 5px;
+    margin-left: 550px;
+    margin-top: 100px;
+    color: black;
+}
+.divone{
+    font-size: small;
+    text-align: left;
+}
+.flexiblecon{
+display: flex;
+margin-top: 100px;
+box-sizing: border-box;
+box-shadow: 10;
+
+
+}
+.divtwo{
+    font-size: small;
+    text-align: center;
+
+}
+
+.divthree{
+    font-size: small;
+    text-align: right; 
+}
+.marginright{
+    margin-right: 150px;
+    background-color: darkkhaki;
+
+}
+
+.middle{
+    background-color: aqua;
+    margin-right: 25px;
+
+}
+.marginleft{
+    margin-left: 150px;
+ background-color:antiquewhite;
+ margin-right: 25px;
+}
+
+.mergindebo{
+    margin-top: 10px;
+    margin-bottom: 100px
+    ;
+}
+.textcenter{
+    text-align: center;
+}
+.imgdecoration{
+    display: flex;
+    margin-left: 75px;
+ }
+ .imgdecorationone{
+    display: flex;
+    margin-left: 75px;
+ }
+
+ .mergindeboone{
+    margin-bottom: 100px;
+ }
+    
+ .textcentertwo{
+    text-align: center;
+ }
+ .fontchange{
+    font-size:small;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+ }
+
+.buttonone{
+    margin-left: 450px;
+    padding: 15px 300px 15px 15px;
+}
+.buttontwo{
+    padding: 15px 50px 15px 15px;
+    background-color: palevioletred;
+}
+.backgroundcolourdebo{
+    background-color:burlywood;
+    padding-top: 25px;
+    padding-bottom: 60px;
+    margin-bottom: 70px;
+    padding-right: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.footerone{
+    font-size: small;
+}
+.footertwo{
+    font-family: 'Splash', cursive;
+}
+.footerthree{
+    text-align: center;
+    background-color: black;
+}
+.buttonthree{
+    background-color: azure;
+    padding:  30px 30px 30px 30px ;
+}
+.buttonfour{
+    padding:  30px 30px 30px 30px ;
+border-color:red;
+background-color: aqua;
+}
